@@ -1,0 +1,11 @@
+
+# Ignore target directory
+/target/
+
+# Ignore application.properties if it is still in the target directory
+/target/classes/application.properties
+# Ignore specific files
+openshift.patch
+tests_dockerize.patch
+README.md
+target/classes/application.properties~427409d4e5d7bdb7547189167035db1d6c26cebb
